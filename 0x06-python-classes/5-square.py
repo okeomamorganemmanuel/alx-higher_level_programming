@@ -1,4 +1,6 @@
-ass that creates a square"""
+#!/usr/bin/python3
+
+"""a class that creates a square"""
 
 
 class Square:
