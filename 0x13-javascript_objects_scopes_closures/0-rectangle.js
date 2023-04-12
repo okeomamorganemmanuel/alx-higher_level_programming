@@ -1,4 +1,6 @@
 #!/usr/bin/node
 
-class Person {
-}
+module.exports = class Rectangle {
+  constructor () {
+  }
+};
